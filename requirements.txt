@@ -1,3 +1,5 @@
-langchain-groq
-langchain-mcp
+langchain==0.1.20 
+langchain-core==0.1.52
+langgraph==0.0.40 
+langchain-mcp-adapters==0.1.0
 mcp
